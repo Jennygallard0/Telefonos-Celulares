@@ -1,0 +1,32 @@
+body{
+   font-family: 'Segoe UI', sans-serif;
+    background-color: rgb(173, 173, 169);
+    margin: 25px;
+    
+
+}
+
+div{
+    text-align: center;
+   
+   
+   
+}
+
+img{
+height: 300px;
+margin-right: 100px;
+margin-left: 100px;
+margin-bottom: 50px;
+}
+
+
+.linea{
+    display: flex;
+    flex-direction: row;
+}
+.esp{
+text-align: left;
+
+
+}
